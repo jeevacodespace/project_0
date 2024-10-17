@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.google-top{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+img{
+    height: 24px;
+    width: 74px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: black;
+}
+  
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+.title{
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+
+.left{
+    font-size: 13px;
+}
+
+.form{
+    padding-left: 25px;
+}
+
+select{
+    width: 300px;
+    padding: 5px;
+}
+
+td{
+    padding: 8px;
+}
+
+.ad-input{
+    width: 585px;
+    padding: 5px
+}
+
+.btn-td{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-advanced{
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+
+}
